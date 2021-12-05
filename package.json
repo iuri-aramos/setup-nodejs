@@ -1,0 +1,31 @@
+{
+  "name": "configure_project_nodejs_from_zero",
+  "version": "1.0.0",
+  "description": "Projeto de demonstraçao",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuri-aramos/setup-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "demo"
+  ],
+  "author": "Iuri Araujo Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuri-aramos/setup-nodejs/issues"
+  },
+  "homepage": "https://github.com/iuri-aramos/setup-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}

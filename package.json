@@ -1,6 +1,6 @@
 {
   "name": "configure_project_nodejs_from_zero",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Projeto de demonstraçao",
   "main": "index.js",
   "scripts": {
